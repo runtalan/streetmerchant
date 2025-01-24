@@ -1586,7 +1586,7 @@ export const Newegg: Store = {
       brand: 'gigabyte',
       cartUrl:
         'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932756',
-      model: 'strix',
+      model: 'aero',
       series: '5080',
       url: 'https://www.newegg.com/gigabyte-gv-n5080aero-oc-16gd-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814932756',
     },
@@ -1594,17 +1594,169 @@ export const Newegg: Store = {
       brand: 'gigabyte',
       cartUrl:
         'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932755',
-      model: 'strix',
+      model: 'aorus',
       series: '5080',
       url: 'https://www.newegg.com/gigabyte-gv-n5080aorus-m-16gd-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814932755',
     },
     {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932754',
+      model: 'windforce',
+      series: '5080',
+      url: 'https://www.newegg.com/gigabyte-windforce-gv-n5080wf3oc-16gd-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814932754',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932753',
+      model: 'gaming',
+      series: '5080',
+      url: 'https://www.newegg.com/asus-rog-astral-rog-astral-rtx5090-o32g-gaming-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814932753',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137913',
+      model: 'ventus',
+      series: '5080',
+      url: 'https://www.newegg.com/msi-rtx-5080-16g-ventus-3x-oc-plus-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814137913',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137910',
+      model: 'strix',
+      series: '5080',
+      url: 'https://www.newegg.com/msi-rtx-5080-16g-gaming-trio-oc-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814137910',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137909',
+      model: 'gaming',
+      series: '5080',
+      url: 'https://www.newegg.com/msi-rtx-5080-16g-gaming-trio-oc-white-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814137909',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137908',
+      model: 'vanguard',
+      series: '5080',
+      url: 'https://www.newegg.com/msi-rtx-5080-16g-vanguard-soc-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814137908',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137905',
+      model: 'suprim',
+      series: '5080',
+      url: 'https://www.newegg.com/msi-rtx-5080-16g-suprim-liquid-soc-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814137905',
+    },
+    {
       brand: 'asus',
       cartUrl:
-        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126601',
-      model: 'strix',
-      series: '4080-16g',
-      url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16814126601',
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126743',
+      model: 'tuf',
+      series: '5080',
+      url: 'https://www.newegg.com/asus-tuf-gaming-tuf-rtx5080-o16g-gaming-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814126743',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126744',
+      model: 'prime',
+      series: '5080',
+      url: 'https://www.newegg.com/asus-prime-rtx5080-o16g-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814126744',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126744',
+      model: 'prime',
+      series: '5080',
+      url: 'https://www.newegg.com/asus-prime-rtx5080-o16g-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814126744',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137920',
+      model: 'ventus',
+      series: '5090',
+      url: 'https://www.newegg.com/msi-rtx-5090-32g-ventus-3x-oc-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814137920',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137916',
+      model: 'ventus',
+      series: '5090',
+      url: 'https://www.newegg.com/msi-rtx-5090-32g-suprim-liquid-soc-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814137916',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137916',
+      model: 'suprim',
+      series: '5090',
+      url: 'https://www.newegg.com/msi-rtx-5090-32g-suprim-liquid-soc-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814137916',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137915',
+      model: 'suprim-soc',
+      series: '5090',
+      url: 'https://www.newegg.com/msi-rtx-5090-32g-suprim-soc-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814137915',
+    },
+    {
+      brand: 'msi',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814137919',
+      model: 'gaming',
+      series: '5090',
+      url: 'https://www.newegg.com/msi-rtx-5090-32g-gaming-trio-oc-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814137919',
+    },
+    {
+      brand: 'zotac',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814500593',
+      model: 'amp',
+      series: '5090',
+      url: 'https://www.newegg.com/zotac-amp-extreme-infinity-zt-b50900b-10p-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814500593',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126752',
+      model: 'tuf',
+      series: '5090',
+      url: 'https://www.newegg.com/p/N82E16814126752',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126753',
+      model: 'tuf2',
+      series: '5090',
+      url: 'https://www.newegg.com/p/N82E16814126753',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126751',
+      model: 'rog',
+      series: '5090',
+      url: 'https://www.newegg.com/asus-rog-astral-rog-astral-rtx5090-o32g-gaming-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814126751',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126750',
+      model: 'astral',
+      series: '5090',
+      url: 'https://www.newegg.com/asus-rog-astral-rog-astral-rtx5090-32g-gaming-nvidia-geforce-rtx-5090-32gb-gddr7/p/N82E16814126750',
     },
     {
       brand: 'sparkle',
