@@ -1583,6 +1583,22 @@ export const Newegg: Store = {
       url: 'https://www.newegg.com/asus-rog-crosshair-viii-dark-hero/p/N82E16814500543',
     },
     {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932756',
+      model: 'strix',
+      series: '5080',
+      url: 'https://www.newegg.com/gigabyte-gv-n5080aero-oc-16gd-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814932756',
+    },
+    {
+      brand: 'gigabyte',
+      cartUrl:
+        'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814932755',
+      model: 'strix',
+      series: '5080',
+      url: 'https://www.newegg.com/gigabyte-gv-n5080aorus-m-16gd-nvidia-geforce-rtx-5080-16gb-gddr7/p/N82E16814932755',
+    },
+    {
       brand: 'asus',
       cartUrl:
         'https://secure.newegg.com/Shopping/AddtoCart.aspx?Submit=ADD&ItemList=N82E16814126601',
