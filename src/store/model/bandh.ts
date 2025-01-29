@@ -64,7 +64,7 @@ export const BAndH: Store = {
       brand: 'asus',
       model: 'prime',
       series: '5080',
-      url: https://www.bhphotovideo.com/c/product/1874876-REG/asus_prime_rtx5080_16g_geforce_rtx_5080_prime.html',
+      url: 'https://www.bhphotovideo.com/c/product/1874876-REG/asus_prime_rtx5080_16g_geforce_rtx_5080_prime.html',
     },
     {
       brand: 'asus',
